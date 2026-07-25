@@ -1,4 +1,4 @@
-# Hi, I'm Rayes 馃憢
+# Hi, I'm Rayes 👋
 
 I'm a Computer Science BSc student at the **University of Basel**, graduating in
 Spring 2027. I'm based in Basel, Switzerland, and primarily interested in
