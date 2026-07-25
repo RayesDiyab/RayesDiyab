@@ -1,6 +1,8 @@
 # Hi, I'm Rayes 👋
 
-I'm a Computer Science BSc student at the **University of Basel**, graduating in Spring 2027. I'm based in Basel, Switzerland, and primarily interested in backend engineering, full-stack development, and building reliable software systems.
+I'm a Computer Science BSc student at the **University of Basel**, graduating in Spring 2027. I'm based in Basel, Switzerland, with a strong interest in cybersecurity, backend engineering, and building secure and reliable software systems.
+
+My long-term goal is to build a career in cybersecurity, particularly in areas where software engineering and security intersect.
 
 ## Currently building
 
@@ -11,6 +13,13 @@ I'm a Computer Science BSc student at the **University of Basel**, graduating in
 `Node.js` · `Express` · `PostgreSQL` · `PostGIS` · `Redis` · `Stripe`
 
 > The source code is private while the project is under active development.
+
+## Cybersecurity
+
+- **ISC2 Certified in Cybersecurity (CC)**
+- Interested in application security, secure backend development, and system security
+- Building practical experience with Linux, networking, authentication, and access control
+- Working toward a professional career in cybersecurity
 
 ## Selected projects
 
@@ -23,10 +32,12 @@ I'm a Computer Science BSc student at the **University of Basel**, graduating in
 
 **Languages:** JavaScript, Java, C++, Python, C, Kotlin  
 **Backend:** Node.js, Express, PostgreSQL, PostGIS, Redis  
-**Tools and platforms:** Git, GitHub, Linux, Docker, Stripe, Android, Arduino
+**Security:** Authentication, access control, secure API design, Linux, networking  
+**Tools and platforms:** Git, GitHub, Docker, Stripe, Android, Arduino
 
 ---
 
 📍 Basel, Switzerland  
 🎓 University of Basel — Computer Science BSc, Spring 2027  
+🛡️ ISC2 Certified in Cybersecurity  
 🤲 Alhamdulillah
