@@ -1,43 +1,142 @@
 # Hi, I'm Rayes 👋
 
-I'm a Computer Science BSc student at the **University of Basel**, graduating in Spring 2027. I'm based in Basel, Switzerland, with a strong interest in cybersecurity, backend engineering, and building secure and reliable software systems.
+I'm a Computer Science BSc student at the University of Basel, graduating in Spring 2027.
 
-My long-term goal is to build a career in cybersecurity, particularly in areas where software engineering and security intersect.
+I'm based in Basel, Switzerland, and I enjoy working close to the boundary between software engineering, reverse engineering, backend systems, and cybersecurity.
 
-## Currently building
+My long-term goal is to build a career in cybersecurity, particularly in areas where understanding how software behaves internally is just as important as building it.
+
+---
+
+## 🚀 Featured Project
+
+### KMRP — KOTOR Modern Restoration Patch
+
+[KMRP](https://github.com/RayesDiyab/KMRP-KOTOR-Modern-Restoration-Patch) is an open-source engine-level restoration patcher for *Star Wars: Knights of the Old Republic*.
+
+The project started from a simple goal: make KOTOR's interface work properly on modern displays.
+
+That quickly turned into a much deeper reverse-engineering project.
+
+KMRP patches undocumented behavior inside the original 32-bit x86 game executable and fixes systems that cannot be properly corrected through normal game modding alone.
+
+It currently includes:
+
+- Support for 48 resolutions across 4:3, 16:10, 16:9, 21:9 and 32:9
+- Resolution-aware UI and HUD scaling
+- Engine-level font scaling
+- Inventory, store, feats and powers interface fixes
+- Area map and minimap corrections
+- Map marker and hit-testing fixes
+- Dialogue and letterbox fixes
+- Fixes for original engine bugs and crashes
+- Automated generation of resolution-specific resources
+- Public reverse-engineering documentation
+- Cryptographic verification before executable patching
+
+The repository contains the patcher source, build tools, testing infrastructure, binary patch definitions, reverse-engineering research and technical documentation.
+
+KMRP does not redistribute the original game executable or copyrighted game assets. It patches the user's own installation locally.
+
+`C#` · `Python` · `PowerShell` · `x86 Assembly` · `Reverse Engineering` · `Binary Patching` · `.NET`
+
+---
+
+## 🛠 Currently Building
 
 ### e-Motion
 
-**e-Motion** is a Swiss ride-hailing platform currently in private development. I'm building its backend systems around real-time ride operations, geospatial data, payments, driver payouts, and automated testing.
+e-Motion is a Swiss ride-hailing platform currently in private development.
+
+I'm building backend systems around:
+
+- Real-time ride operations
+- Geospatial queries and routing data
+- Driver and passenger workflows
+- Payments and driver payouts
+- PostgreSQL/PostGIS data modeling
+- Redis-backed application state
+- Automated testing
+- Secure API design
 
 `Node.js` · `Express` · `PostgreSQL` · `PostGIS` · `Redis` · `Stripe`
 
 > The source code is private while the project is under active development.
 
-## Cybersecurity
+---
 
-- **ISC2 Certified in Cybersecurity (CC)**
-- Interested in application security, secure backend development, and system security
-- Building practical experience with Linux, networking, authentication, and access control
-- Working toward a professional career in cybersecurity
+## 🛡 Cybersecurity
 
-## Selected projects
+I'm particularly interested in the parts of cybersecurity that overlap with software engineering and low-level systems.
 
-- **[IronLock](https://github.com/RayesDiyab/IronLock)** — Memory-efficient biometric lock system built with Arduino and C++.
-- **[DailyTrack](https://github.com/RayesDiyab/DailyTrack)** — Desktop activity tracker for measuring time spent across applications and windows.
-- **[AmongAlien-v2](https://github.com/RayesDiyab/AmongAlien-v2)** — Java game project inspired by social-deduction gameplay.
-- **[tremola-scheduling](https://github.com/RayesDiyab/tremola-scheduling)** — Privacy-focused Android messaging project developed with Kotlin.
+Areas I'm developing experience in include:
 
-## Technologies
+- Reverse engineering
+- Binary analysis
+- Application security
+- Secure backend development
+- Authentication and authorization
+- Linux
+- Networking
+- Executable analysis
+- Secure API design
 
-**Languages:** JavaScript, Java, C++, Python, C, Kotlin  
-**Backend:** Node.js, Express, PostgreSQL, PostGIS, Redis  
-**Security:** Authentication, access control, secure API design, Linux, networking  
-**Tools and platforms:** Git, GitHub, Docker, Stripe, Android, Arduino
+### Certification
+
+- ISC2 Certified in Cybersecurity (CC)
 
 ---
 
-📍 Basel, Switzerland  
-🎓 University of Basel — Computer Science BSc, Spring 2027  
-🛡️ ISC2 Certified in Cybersecurity  
-🤲 Alhamdulillah
+## 📂 Selected Projects
+
+### [IronLock](https://github.com/RayesDiyab/IronLock)
+
+Memory-efficient biometric lock system built with Arduino and C++.
+
+`C++` · `Arduino` · `Embedded Systems`
+
+### [DailyTrack](https://github.com/RayesDiyab/DailyTrack)
+
+Desktop activity tracker for measuring time spent across applications and windows.
+
+### [AmongAlien-v2](https://github.com/RayesDiyab/AmongAlien-v2)
+
+Java game project inspired by social-deduction gameplay.
+
+`Java`
+
+### [tremola-scheduling](https://github.com/RayesDiyab/tremola-scheduling)
+
+Privacy-focused Android messaging project developed with Kotlin.
+
+`Kotlin` · `Android`
+
+---
+
+## 💻 Technologies
+
+### Languages
+
+`C#` · `Python` · `JavaScript` · `Java` · `C++` · `C` · `Kotlin` · `x86 Assembly`
+
+### Backend
+
+`Node.js` · `Express` · `PostgreSQL` · `PostGIS` · `Redis`
+
+### Systems & Security
+
+`Reverse Engineering` · `Binary Patching` · `Executable Analysis` · `Authentication` · `Access Control` · `Linux` · `Networking`
+
+### Tools & Platforms
+
+`Git` · `GitHub` · `.NET` · `PowerShell` · `Docker` · `Stripe` · `Android` · `Arduino`
+
+---
+
+## 📍 About Me
+
+- 📍 Basel, Switzerland
+- 🎓 Computer Science BSc, University of Basel — Spring 2027
+- 🛡 ISC2 Certified in Cybersecurity
+- 🔧 Interested in reverse engineering, cybersecurity and backend systems
+- 🤲 Alhamdulillah
