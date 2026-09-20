@@ -1,6 +1,8 @@
 # Hi, I'm Rayes 👋
 
-I'm a Computer Science BSc student at the University of Basel, graduating in Spring 2027.
+I'm **Rayes Diyab**, a Computer Science BSc student at the University of Basel, graduating in Spring 2027.
+
+**Portfolio:** https://rayesdiyab.com · **LinkedIn:** https://www.linkedin.com/in/rayes-diyab/
 
 I'm based in Basel, Switzerland, and I enjoy working close to the boundary between software engineering, reverse engineering, backend systems, and cybersecurity.
 
@@ -12,7 +14,7 @@ My long-term goal is to build a career in cybersecurity, particularly in areas w
 
 ### KMRP — KOTOR Modern Restoration Patch
 
-[KMRP](https://github.com/RayesDiyab/KMRP-KOTOR-Modern-Restoration-Patch) is an open-source engine-level restoration patcher for *Star Wars: Knights of the Old Republic*.
+[KMRP](https://github.com/RayesDiyab/KMRP-KOTOR-Modern-Restoration-Patch) ([case study](https://rayesdiyab.com/projects/kmrp/)) is an open-source engine-level restoration patcher for *Star Wars: Knights of the Old Republic*.
 
 The project started from a simple goal: make KOTOR's interface work properly on modern displays.
 
